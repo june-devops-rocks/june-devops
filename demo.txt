@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 my first prodegram
-=======
 my first proergram
->>>>>>> c816bf07d02caef5e4660f597ae34a3a7887cd91
